@@ -1,0 +1,2 @@
+export CUDA_VISIBLE_DEVICES=4
+python groundedsam_generate_sem_demo.py
